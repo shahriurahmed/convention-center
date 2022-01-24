@@ -5,3 +5,13 @@ body{
 }
 
 /* css for footer */
+.fh{
+    height: 250px;
+}
+
+.btn-primary{
+    background-color: white;
+    color: blue;
+    font-weight: 700;
+    border: none;
+}
